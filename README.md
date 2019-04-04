@@ -56,3 +56,5 @@ famocIMs = 0;   % occlude with familiar stimuli
 smallIMs = 0;   % downsized stimuli
 
 
+Some sample stimuli are included to get you started. 
+The coordinates selected for foveation during the learning phase are saved in the folder IMcoord.

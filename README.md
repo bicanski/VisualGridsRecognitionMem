@@ -14,3 +14,11 @@ Andrej Bicanski, April 2019
 andrej.bicanski@gmail.com
 
 www.andrejbicanski.com
+
+
+
+Order of code to run:
+
+1. Create grid cell firing rate maps with DOE_prep_makeGCs.m 
+2. 
+

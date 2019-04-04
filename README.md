@@ -28,7 +28,7 @@ A) setupDCs = 1; % set this to 1 to make grid cell/distance cell weights
 B) setupGCs = 0; % set this to 1 to make grid cells as described above
 C) getIMpts = 0; % set this to 1 to select the attention targets in images by hand
 D) addIMpts = 0; % set this to 1 to add points to an image (e.g. distractors, see paper)
-E) makeWTS  = 0; % set this to one learn the connections between sensory cells, feature label cells and grid cells. 
+E) makeWTS  = 0; % set this to one learn the connections between sensory cells, feature label cells and grid cells.
 
 Weights created in A) are the same forever, i.e. they can be learned by an organism once, e.g. during development
 Weights learned in E) are specific to your stimulus library, i.e. they correspond to one-shot learning when an agent encounters a new stimulus

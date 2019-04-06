@@ -11,6 +11,7 @@ is. I have done my best to use self-explanatory variable names and to annotate t
 If something remains cryptic I will happily assist. Please do not hesitate to contact me.
 
 Andrej Bicanski, April 2019
+
 andrej.bicanski@gmail.com
 
 www.andrejbicanski.com
@@ -50,8 +51,6 @@ cleanIMs = 1;   faceonly = 0;   % unperturbed stimuli
 occluIMs = 0;   % stimuli with noise occlusions
 
 realoIMs = 0;   % realistic occlusions (other stimuli)
-
-famocIMs = 0;   % occlude with familiar stimuli
 
 smallIMs = 0;   % downsized stimuli
 

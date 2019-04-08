@@ -30,7 +30,7 @@ You can also do this from the main script, see below
 
 A) setupDCs = 1; % set this to 1 to make grid cell/distance cell weights
 
-B) setupGCs = 0; % set this to 1 to make grid cells as described above
+B) setupGCs = 0; % set this to 1 to make grid cells as described above if you haven't done it separately
 
 C) getIMpts = 0; % set this to 1 to select the attention targets in images by hand
 

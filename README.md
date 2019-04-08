@@ -56,6 +56,8 @@ smallIMs = 0;   % downsized stimuli
 
 
 Some sample stimuli are included to get you started. 
-The coordinates selected for foveation during the learning phase are saved in the folder IMcoord.
+The coordinates selected for foveation during the learning phase are saved in the folder IMcoords. THe folder stimlib contains some stimuli. 
 
-CODE WILL BE UPLOADED SHORTLY
+Important note, following the sensory discrimination of a local feature, activity across all cells which may or may not code for the local feature is pruned (candidates have to supass X standard deviations across the population). This means, with fewer stimuli in the library that threshold has to be lowered to observe interference effects. There are additional notes in the code explaining this. 
+
+Enjoy.
